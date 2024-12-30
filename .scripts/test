@@ -1,0 +1,4 @@
+#! /usr/bin/env bash
+
+# cargo watch -x "test -- --nocapture"
+cargo watch -x "test"
